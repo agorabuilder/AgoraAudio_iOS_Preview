@@ -18,13 +18,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AgoraRtcCryptoLoader",
-            url: "https://download.agora.io/swiftpm/AgoraAudio_iOS_Preview/4.0.0/AgoraRtcCryptoLoader.xcframework.zip",
-            checksum: "084c1dce3f39b7cc783f1b3a7460c6a094194d7d9f2989c25d20f07b8d140ba0"
+            url: "https://download.agora.io/swiftpm/AgoraAudio_iOS_Preview/4.0.0-preview.2/AgoraRtcCryptoLoader.xcframework.zip",
+            checksum: "1dd8ef13a62768003d964c7aa33cf7ea29db01513d891b3e186088f5918ad1b6"
         ),
         .binaryTarget(
             name: "AgoraRtcKit",
-            url: "https://download.agora.io/swiftpm/AgoraAudio_iOS_Preview/4.0.0/AgoraRtcKit.xcframework.zip",
-            checksum: "a7086db847e7b16ac26b28ee4c6a421675ac57c8b15fec47173c096141ea275c"
+            url: "https://download.agora.io/swiftpm/AgoraAudio_iOS_Preview/4.0.0-preview.2/AgoraRtcKit.xcframework.zip",
+            checksum: "e05768bda18b77ccf12d50b1970ecfb249484a3e24fc850d70341223bbe8b45e"
         ),
     ]
 )
